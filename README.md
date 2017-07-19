@@ -15,8 +15,11 @@ This is my Maven project from MuleSoft's advanced development class
 ## Common git commands
 
 git add -A
+
 git commit -m "XXXX"
+
 git push origin master
 
 git status
+
 git log
