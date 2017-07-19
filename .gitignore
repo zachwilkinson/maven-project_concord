@@ -48,3 +48,4 @@ target/
 **/*.mflow
 
 derby.log
+activemq-data/
